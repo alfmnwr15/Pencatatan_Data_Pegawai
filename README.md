@@ -2,9 +2,9 @@
 Program ini di buat untuk menyelesaikan tugas besar pemrograman web 2  
 
 Kelompok 
-10121025_Alif Munawar 
-10123432_Azka Muhammad Zharfan  
+<p> 10121025_Alif Munawar 
+<p> 10123432_Azka Muhammad Zharfan  
 
 login
-username: admin 
-password: admin123
+<p> username: admin 
+<p> password: admin123
